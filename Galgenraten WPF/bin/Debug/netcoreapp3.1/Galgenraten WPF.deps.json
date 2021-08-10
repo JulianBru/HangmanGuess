@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Galgenraten WPF/1.0.0": {
+        "runtime": {
+          "Galgenraten WPF.dll": {}
+        }
+      },
+      "Galgenraten 3000/1.0.0": {
+        "runtime": {
+          "Galgenraten 3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Galgenraten WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Galgenraten 3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
